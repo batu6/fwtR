@@ -7,5 +7,5 @@ The purpose was mainly to expose the fake trends popping up in the chaotic polit
 
 ### Website
 
-After the tweetr update now only the main page works. The new update changed which data the package gathered, which completely messes up my code. :(
+After the rtweet update now only the main page works. The new update changed which data the package gathered, which completely messes up my code. :(
 https://batu6.shinyapps.io/fwtr/
